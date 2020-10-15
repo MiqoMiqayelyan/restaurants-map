@@ -1,0 +1,15 @@
+.marker {
+	position: relative;
+}
+
+.popover-content {
+	text-align: center;
+}
+
+.title {
+	font-size: 14px;
+}
+
+.description {
+	font-size: 10px;
+}
